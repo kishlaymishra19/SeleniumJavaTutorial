@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66552" started-at="2017-09-06T14:37:53Z" finished-at="2017-09-06T14:38:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66552" started-at="2017-09-06T14:37:53Z" finished-at="2017-09-06T14:38:59Z">
+      <class name="com.democart.Tests.CreateOrder">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.democart.Tests.CreateOrder@29774679]" name="setup" is-config="true" duration-ms="15165" started-at="2017-09-06T20:07:53Z" finished-at="2017-09-06T20:08:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.democart.Tests.CreateOrder@29774679]" name="login" duration-ms="5404" started-at="2017-09-06T20:08:08Z" finished-at="2017-09-06T20:08:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="searchItem()[pri:2, instance:com.democart.Tests.CreateOrder@29774679]" name="searchItem" duration-ms="5823" started-at="2017-09-06T20:08:13Z" finished-at="2017-09-06T20:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method status="PASS" signature="addToCart()[pri:3, instance:com.democart.Tests.CreateOrder@29774679]" name="addToCart" duration-ms="9250" started-at="2017-09-06T20:08:19Z" finished-at="2017-09-06T20:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="CheckOut()[pri:4, instance:com.democart.Tests.CreateOrder@29774679]" name="CheckOut" duration-ms="19835" started-at="2017-09-06T20:08:28Z" finished-at="2017-09-06T20:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOut -->
+        <test-method status="PASS" signature="getOrderDetails()[pri:5, instance:com.democart.Tests.CreateOrder@29774679]" name="getOrderDetails" duration-ms="11027" started-at="2017-09-06T20:08:48Z" finished-at="2017-09-06T20:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOrderDetails -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.democart.Tests.CreateOrder@29774679]" name="cleanUp" is-config="true" duration-ms="0" started-at="2017-09-06T20:08:59Z" finished-at="2017-09-06T20:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.democart.Tests.CreateOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
